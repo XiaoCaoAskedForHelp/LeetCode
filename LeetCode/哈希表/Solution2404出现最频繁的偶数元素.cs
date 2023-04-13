@@ -1,4 +1,4 @@
-﻿namespace LeetCode;
+﻿namespace LeetCode.哈希表;
 
 public class Solution2404出现最频繁的偶数元素
 {

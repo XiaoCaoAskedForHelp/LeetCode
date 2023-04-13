@@ -1,4 +1,4 @@
-﻿namespace LeetCode;
+﻿namespace LeetCode.双指针;
 
 /// <summary>
 /// 1040. 移动石子直到连续 II

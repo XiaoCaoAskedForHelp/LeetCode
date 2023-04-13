@@ -1,4 +1,4 @@
-﻿namespace LeetCode;
+﻿namespace LeetCode.哈希表;
 
 /// <summary>
 /// 1. 两数之和
