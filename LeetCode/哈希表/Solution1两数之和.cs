@@ -1,9 +1,9 @@
 ﻿namespace LeetCode;
 
 /// <summary>
-/// 两数之和
+/// 1. 两数之和
 /// </summary>
-public class Solution29两数之和
+public class Solution1两数之和
 {
     public int[] TwoSum(int[] nums, int target)
     {

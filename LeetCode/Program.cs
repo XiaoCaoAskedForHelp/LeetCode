@@ -48,9 +48,11 @@ Console.WriteLine("Hello, World!");
 // int[] b = new[] { 1,1,1,50 };
 // new Solution27().MinNumberOfHours(1,1,a,b);
 
-Dictionary<string, string> dictionary = new Dictionary<string, string>();
-dictionary.Add("dfsa","fdsa");
-dictionary.Add("fdsa","fdsafd");
-Console.WriteLine(JsonConvert.SerializeObject(dictionary));
-Console.ReadLine();
+// Dictionary<string, string> dictionary = new Dictionary<string, string>();
+// dictionary.Add("dfsa","fdsa");
+// dictionary.Add("fdsa","fdsafd");
+// Console.WriteLine(JsonConvert.SerializeObject(dictionary));
+// Console.ReadLine();
+
+new Solution2404出现最频繁的偶数元素().MostFrequentEven(new[] { 0, 1, 2, 2, 4, 4, 1 });
 

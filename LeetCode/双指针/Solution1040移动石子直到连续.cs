@@ -3,7 +3,7 @@
 /// <summary>
 /// 1040. 移动石子直到连续 II
 /// </summary>
-public class Solution28移动石子
+public class Solution1040移动石子直到连续
 {
     public int[] NumMovesStonesII(int[] stones)
     {
