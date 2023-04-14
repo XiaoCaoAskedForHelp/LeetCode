@@ -1,0 +1,28 @@
+name: Update README on Commit
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Table of Contents and Update README
+        run: |
+          # run the script to generate table of contents and update README
+          ./generate-list.sh
+          
+          # commit and push changes
+          git config --global user.email "amos.cao@outlook.com"
+          git config --global user.name "amos.cao"
+          git add README.md
+          git commit -m "Update README with new contents"
+          git push
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
