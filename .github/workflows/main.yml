@@ -15,7 +15,7 @@ jobs:
       - name: Generate Table of Contents and Update README
         run: |
           # run the script to generate table of contents and update README
-          ./generate-list.sh
+          sh ./generate-list.sh
           
           # commit and push changes
           git config --global user.email "amos.cao@outlook.com"
