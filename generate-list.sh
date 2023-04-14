@@ -26,4 +26,4 @@ for i in $directories; do
 done
 
 # update README with table of contents
-echo -e "# My LeetCode List\n$toc" > README.md
+echo "# My LeetCode List\n$toc" > README.md
