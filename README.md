@@ -1,4 +1,4 @@
--e # My LeetCode List
+# My LeetCode List
 
 - [`数学`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/数学)
   - [`Solution89格雷编码.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数学/Solution89格雷编码.cs)
