@@ -40,6 +40,7 @@
   - [`Solution2409统计共同度过的日子数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/枚举/Solution2409统计共同度过的日子数.cs)
   - [`Solution1653使字符串平衡的最少删除次数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/枚举/Solution1653使字符串平衡的最少删除次数.cs)
   - [`Soulution982按位与为零的三元组.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/枚举/Soulution982按位与为零的三元组.cs)
+  - [`Solution14最长公共前缀.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/枚举/Solution14最长公共前缀.cs)
   - [`Solution2357使数组中所有元素都等于零.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/枚举/Solution2357使数组中所有元素都等于零.cs)
   - [`Solution2373矩阵中的局部最大值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/枚举/Solution2373矩阵中的局部最大值.cs)
 - [`滑动窗口`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/滑动窗口)
