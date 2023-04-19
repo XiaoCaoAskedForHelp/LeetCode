@@ -59,4 +59,7 @@ Console.WriteLine("Hello, World!");
 // new Solution2404出现最频繁的偶数元素().MostFrequentEven(new[] { 0, 1, 2, 2, 4, 4, 1 });
 
 
-new Solution2409统计共同度过的日子数().CountDaysTogether("04-20", "06-18", "04-12", "12-19");
+// new Solution2409统计共同度过的日子数().CountDaysTogether("04-20", "06-18", "04-12", "12-19");
+
+
+new Solution20有效的括号().IsValid("()[]{}");
