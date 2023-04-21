@@ -2,6 +2,7 @@
 
 - [`数学`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/数学)
   - [`Solution89格雷编码.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数学/Solution89格雷编码.cs)
+  - [`Solution66加一.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数学/Solution66加一.cs)
   - [`Solution1238循环码排序.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数学/Solution1238循环码排序.cs)
   - [`Solution1250检查好数组.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数学/Solution1250检查好数组.cs)
   - [`Solution13罗马数字转整数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数学/Solution13罗马数字转整数.cs)
@@ -10,6 +11,9 @@
   - [`Solution剑指Offer47礼物的最大价值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution剑指Offer47礼物的最大价值.cs)
   - [`Solution1139最大的以1为边界的正方形.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1139最大的以1为边界的正方形.cs)
   - [`Solution1326灌溉花园的最少水龙头数目.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1326灌溉花园的最少水龙头数目.cs)
+- [`太简单`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/太简单)
+  - [`Solution2413最小偶倍数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/太简单/Solution2413最小偶倍数.cs)
+  - [`Solution58最后一个单词的长度.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/太简单/Solution58最后一个单词的长度.cs)
 - [`贪心`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/贪心)
   - [`Solution1247交换字符使得字符串相同.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1247交换字符使得字符串相同.cs)
   - [`Solution1144递减元素使数组呈锯齿状.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1144递减元素使数组呈锯齿状.cs)
