@@ -3,6 +3,7 @@
 using System.Text.RegularExpressions;
 using LeetCode;
 using LeetCode.哈希表;
+using LeetCode.数学;
 using LeetCode.枚举;
 using Newtonsoft.Json;
 using RazorEngine;
@@ -62,4 +63,6 @@ Console.WriteLine("Hello, World!");
 // new Solution2409统计共同度过的日子数().CountDaysTogether("04-20", "06-18", "04-12", "12-19");
 
 
-new Solution20有效的括号().IsValid("()[]{}");
+// new Solution20有效的括号().IsValid("()[]{}");
+
+new Solution66加一().PlusOne(new int[]{9});
