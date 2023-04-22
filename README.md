@@ -1,6 +1,7 @@
 # My LeetCode List
 
 - [`数学`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/数学)
+  - [`Solution67二进制求和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数学/Solution67二进制求和.cs)
   - [`Solution89格雷编码.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数学/Solution89格雷编码.cs)
   - [`Solution66加一.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数学/Solution66加一.cs)
   - [`Solution1238循环码排序.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数学/Solution1238循环码排序.cs)
@@ -50,6 +51,7 @@
 - [`滑动窗口`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/滑动窗口)
   - [`Solution2379得到K个黑块的最少涂色次数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/滑动窗口/Solution2379得到K个黑块的最少涂色次数.cs)
 - [`栈`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/栈)
+  - [`Solution20有效的括号.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution20有效的括号.cs)
   - [`Solution1096花括号展开.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution1096花括号展开.cs)
   - [`Solution1124表现良好的最长时间段.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution1124表现良好的最长时间段.cs)
 - [`前缀和`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/前缀和)
