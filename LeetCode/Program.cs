@@ -65,4 +65,6 @@ Console.WriteLine("Hello, World!");
 
 // new Solution20有效的括号().IsValid("()[]{}");
 
-new Solution66加一().PlusOne(new int[]{9});
+// new Solution66加一().PlusOne(new int[]{9});
+
+new Solution67二进制求和().AddBinary("11","1");

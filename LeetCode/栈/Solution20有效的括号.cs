@@ -1,4 +1,4 @@
-﻿namespace LeetCode;
+﻿namespace LeetCode.栈;
 
 public class Solution20有效的括号
 {
