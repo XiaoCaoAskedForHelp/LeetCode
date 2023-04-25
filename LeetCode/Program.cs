@@ -5,6 +5,7 @@ using LeetCode;
 using LeetCode.哈希表;
 using LeetCode.数学;
 using LeetCode.枚举;
+using LeetCode.树;
 using Newtonsoft.Json;
 using RazorEngine;
 using RazorEngine.Templating;
@@ -67,4 +68,12 @@ Console.WriteLine("Hello, World!");
 
 // new Solution66加一().PlusOne(new int[]{9});
 
-new Solution67二进制求和().AddBinary("11","1");
+// new Solution67二进制求和().AddBinary("11","1");
+
+var treeNode4 = new TreeNode(4, null, null);
+var treeNode5 = new TreeNode(5, null, null);
+var treeNode2 = new TreeNode(2, treeNode4, treeNode5);
+TreeNode treeNode6 = new TreeNode(6, null, null);
+TreeNode treeNode3 = new TreeNode(3, treeNode6, null);
+var treeNode = new TreeNode(1,treeNode2,treeNode3);
+new Solution94二叉树的中序遍历().InorderTraversal2(treeNode);
