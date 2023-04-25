@@ -51,6 +51,7 @@
   - [`Solution2357使数组中所有元素都等于零.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/枚举/Solution2357使数组中所有元素都等于零.cs)
   - [`Solution2373矩阵中的局部最大值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/枚举/Solution2373矩阵中的局部最大值.cs)
 - [`树`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/树)
+  - [`Solution94二叉树的中序遍历.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/树/Solution94二叉树的中序遍历.cs)
   - [`Solution100相同的树.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/树/Solution100相同的树.cs)
 - [`滑动窗口`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/滑动窗口)
   - [`Solution2379得到K个黑块的最少涂色次数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/滑动窗口/Solution2379得到K个黑块的最少涂色次数.cs)
