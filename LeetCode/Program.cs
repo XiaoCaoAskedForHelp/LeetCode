@@ -3,7 +3,9 @@
 using System.Text.RegularExpressions;
 using LeetCode;
 using LeetCode.哈希表;
+using LeetCode.太简单;
 using LeetCode.数学;
+using LeetCode.数组;
 using LeetCode.枚举;
 using LeetCode.树;
 using Newtonsoft.Json;
@@ -70,10 +72,15 @@ Console.WriteLine("Hello, World!");
 
 // new Solution67二进制求和().AddBinary("11","1");
 
-var treeNode4 = new TreeNode(4, null, null);
-var treeNode5 = new TreeNode(5, null, null);
-var treeNode2 = new TreeNode(2, treeNode4, treeNode5);
-TreeNode treeNode6 = new TreeNode(6, null, null);
-TreeNode treeNode3 = new TreeNode(3, treeNode6, null);
-var treeNode = new TreeNode(1,treeNode2,treeNode3);
-new Solution94二叉树的中序遍历().InorderTraversal2(treeNode);
+// var treeNode4 = new TreeNode(4, null, null);
+// var treeNode5 = new TreeNode(5, null, null);
+// var treeNode2 = new TreeNode(2, treeNode4, treeNode5);
+// TreeNode treeNode6 = new TreeNode(6, null, null);
+// TreeNode treeNode3 = new TreeNode(3, treeNode6, null);
+// var treeNode = new TreeNode(1,treeNode2,treeNode3);
+// new Solution94二叉树的中序遍历().InorderTraversal2(treeNode);
+
+// new Solution136只出现一次的数字().SingleNumber(new int[]{4,1,2,1,2});
+
+// new Solution118杨辉三角().Generate(5);
+new Solution119杨辉三角().GetRow(5);
