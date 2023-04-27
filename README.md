@@ -63,6 +63,7 @@
   - [`Solution1590使数组和能被P整除.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/前缀和/Solution1590使数组和能被P整除.cs)
 - [`双指针`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/双指针)
   - [`Solution1040移动石子直到连续.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution1040移动石子直到连续.cs)
+  - [`Solution88合并两个有序数组.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution88合并两个有序数组.cs)
   - [`Solution35搜索插入位置.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution35搜索插入位置.cs)
   - [`Solution1237找出给定方程的正整数解.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution1237找出给定方程的正整数解.cs)
   - [`Solution27移除元素.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution27移除元素.cs)
