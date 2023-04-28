@@ -83,4 +83,6 @@ Console.WriteLine("Hello, World!");
 // new Solution136只出现一次的数字().SingleNumber(new int[]{4,1,2,1,2});
 
 // new Solution118杨辉三角().Generate(5);
-new Solution119杨辉三角().GetRow(5);
+// new Solution119杨辉三角().GetRow(5);
+
+new Solution168Excel表列名称().ConvertToTitle(701);
