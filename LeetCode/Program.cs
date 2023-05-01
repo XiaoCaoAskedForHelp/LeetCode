@@ -85,4 +85,6 @@ Console.WriteLine("Hello, World!");
 // new Solution118杨辉三角().Generate(5);
 // new Solution119杨辉三角().GetRow(5);
 
-new Solution168Excel表列名称().ConvertToTitle(701);
+// new Solution168Excel表列名称().ConvertToTitle(701);
+
+new Solution171Excel_表列序号().TitleToNumber("A");
