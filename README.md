@@ -1,5 +1,7 @@
 # My LeetCode List
 
+- [`分治法`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/分治法)
+  - [`Soluton190颠倒二进制位.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/分治法/Soluton190颠倒二进制位.cs)
 - [`滑动窗口`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/滑动窗口)
   - [`Solution2379得到K个黑块的最少涂色次数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/滑动窗口/Solution2379得到K个黑块的最少涂色次数.cs)
 - [`数组`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/数组)
@@ -7,6 +9,8 @@
 - [`前缀和`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/前缀和)
   - [`Solution1590使数组和能被P整除.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/前缀和/Solution1590使数组和能被P整除.cs)
 - [`太简单`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/太简单)
+  - [`Solution171Excel`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/太简单/Solution171Excel)
+  - [`表列序号.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/太简单/表列序号.cs)
   - [`Solution118杨辉三角.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/太简单/Solution118杨辉三角.cs)
   - [`Solution58最后一个单词的长度.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/太简单/Solution58最后一个单词的长度.cs)
   - [`Solution2413最小偶倍数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/太简单/Solution2413最小偶倍数.cs)
