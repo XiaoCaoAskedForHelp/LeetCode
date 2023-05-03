@@ -76,6 +76,7 @@
   - [`Solution1237找出给定方程的正整数解.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution1237找出给定方程的正整数解.cs)
   - [`Solution1040移动石子直到连续.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution1040移动石子直到连续.cs)
   - [`Solution35搜索插入位置.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution35搜索插入位置.cs)
+  - [`Solution202快乐数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution202快乐数.cs)
   - [`Solution88合并两个有序数组.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution88合并两个有序数组.cs)
   - [`Solution27移除元素.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution27移除元素.cs)
   - [`Solution26删除有序数组中的重复项.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution26删除有序数组中的重复项.cs)
