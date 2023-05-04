@@ -87,4 +87,6 @@ Console.WriteLine("Hello, World!");
 
 // new Solution168Excel表列名称().ConvertToTitle(701);
 
-new Solution171Excel_表列序号().TitleToNumber("A");
+// new Solution171Excel_表列序号().TitleToNumber("A");
+
+new Solution205同构字符串().IsIsomorphic("badc","baba");
