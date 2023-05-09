@@ -5,6 +5,7 @@
 - [`滑动窗口`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/滑动窗口)
   - [`Solution2379得到K个黑块的最少涂色次数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/滑动窗口/Solution2379得到K个黑块的最少涂色次数.cs)
 - [`数组`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/数组)
+  - [`Solution283移动零.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数组/Solution283移动零.cs)
   - [`Solution704二分查找.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数组/Solution704二分查找.cs)
   - [`Solution119杨辉三角.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数组/Solution119杨辉三角.cs)
 - [`前缀和`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/前缀和)
