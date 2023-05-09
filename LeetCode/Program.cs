@@ -89,4 +89,6 @@ Console.WriteLine("Hello, World!");
 
 // new Solution171Excel_表列序号().TitleToNumber("A");
 
-new Solution205同构字符串().IsIsomorphic("badc","baba");
+new Solution205同构字符串().IsIsomorphic("badc", "baba");
+
+new Solution283移动零().MoveZeroes(new int[] { 0, 1, 0, 3, 12 });
