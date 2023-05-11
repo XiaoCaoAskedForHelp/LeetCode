@@ -7,6 +7,7 @@ using LeetCode.太简单;
 using LeetCode.数学;
 using LeetCode.数组;
 using LeetCode.枚举;
+using LeetCode.栈;
 using LeetCode.树;
 using Newtonsoft.Json;
 using RazorEngine;
@@ -89,6 +90,8 @@ Console.WriteLine("Hello, World!");
 
 // new Solution171Excel_表列序号().TitleToNumber("A");
 
-new Solution205同构字符串().IsIsomorphic("badc", "baba");
+// new Solution205同构字符串().IsIsomorphic("badc", "baba");
 
-new Solution283移动零().MoveZeroes(new int[] { 0, 1, 0, 3, 12 });
+// new Solution283移动零().MoveZeroes(new int[] { 0, 1, 0, 3, 12 });
+
+new Solution844比较含退格的字符串().BackspaceCompare2("bxj##tw","bxo#j##tw");
