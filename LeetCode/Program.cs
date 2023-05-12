@@ -94,4 +94,7 @@ Console.WriteLine("Hello, World!");
 
 // new Solution283移动零().MoveZeroes(new int[] { 0, 1, 0, 3, 12 });
 
-new Solution844比较含退格的字符串().BackspaceCompare2("bxj##tw","bxo#j##tw");
+// new Solution844比较含退格的字符串().BackspaceCompare2("bxj##tw","bxo#j##tw");
+
+
+new Solution977_有序数组的平方().SortedSquares(new int[] { -7,-3,2,3,11 });
