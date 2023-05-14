@@ -9,6 +9,7 @@ using LeetCode.数组;
 using LeetCode.枚举;
 using LeetCode.栈;
 using LeetCode.树;
+using LeetCode.滑动窗口;
 using Newtonsoft.Json;
 using RazorEngine;
 using RazorEngine.Templating;
@@ -97,4 +98,6 @@ Console.WriteLine("Hello, World!");
 // new Solution844比较含退格的字符串().BackspaceCompare2("bxj##tw","bxo#j##tw");
 
 
-new Solution977_有序数组的平方().SortedSquares(new int[] { -7,-3,2,3,11 });
+// new Solution977_有序数组的平方().SortedSquares(new int[] { -7,-3,2,3,11 });
+
+new Solution904水果成篮().TotalFruit(new[] { 3, 3, 3, 1, 2, 1, 1, 2, 3, 3, 4 });
