@@ -100,4 +100,6 @@ Console.WriteLine("Hello, World!");
 
 // new Solution977_有序数组的平方().SortedSquares(new int[] { -7,-3,2,3,11 });
 
-new Solution904水果成篮().TotalFruit(new[] { 3, 3, 3, 1, 2, 1, 1, 2, 3, 3, 4 });
+// new Solution904水果成篮().TotalFruit(new[] { 3, 3, 3, 1, 2, 1, 1, 2, 3, 3, 4 });
+
+new Solution76最小覆盖子串().MinWindow2("ADOBECODEBANC","ABC");
