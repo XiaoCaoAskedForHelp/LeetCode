@@ -9,6 +9,7 @@ using LeetCode.数组;
 using LeetCode.枚举;
 using LeetCode.栈;
 using LeetCode.树;
+using LeetCode.模拟;
 using LeetCode.滑动窗口;
 using Newtonsoft.Json;
 using RazorEngine;
@@ -102,4 +103,6 @@ Console.WriteLine("Hello, World!");
 
 // new Solution904水果成篮().TotalFruit(new[] { 3, 3, 3, 1, 2, 1, 1, 2, 3, 3, 4 });
 
-new Solution76最小覆盖子串().MinWindow2("ADOBECODEBANC","ABC");
+// new Solution76最小覆盖子串().MinWindow2("ADOBECODEBANC","ABC");
+
+new Solution59螺旋矩阵II().GenerateMatrix2(3);
