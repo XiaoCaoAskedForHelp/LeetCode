@@ -72,6 +72,7 @@
   - [`Solution1653使字符串平衡的最少删除次数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/枚举/Solution1653使字符串平衡的最少删除次数.cs)
   - [`Solution2373矩阵中的局部最大值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/枚举/Solution2373矩阵中的局部最大值.cs)
 - [`模拟`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/模拟)
+  - [`Solution59螺旋矩阵II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/模拟/Solution59螺旋矩阵II.cs)
   - [`Solution2383赢得比赛需要的最少训练时长.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/模拟/Solution2383赢得比赛需要的最少训练时长.cs)
   - [`Solution1599经营摩天轮的最大利润.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/模拟/Solution1599经营摩天轮的最大利润.cs)
 - [`数组`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/数组)
