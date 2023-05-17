@@ -105,4 +105,9 @@ Console.WriteLine("Hello, World!");
 
 // new Solution76最小覆盖子串().MinWindow2("ADOBECODEBANC","ABC");
 
-new Solution59螺旋矩阵II().GenerateMatrix2(3);
+// new Solution59螺旋矩阵II().GenerateMatrix2(3);
+
+// int[][] df = new Solution59螺旋矩阵II().GenerateMatrix2(3);
+int[][] df = new int[1][];
+df[0] = new int[] { 6, 9, 7 };
+new Solution54螺旋矩阵().SpiralOrder(df);
