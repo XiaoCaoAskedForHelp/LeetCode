@@ -108,6 +108,8 @@ Console.WriteLine("Hello, World!");
 // new Solution59螺旋矩阵II().GenerateMatrix2(3);
 
 // int[][] df = new Solution59螺旋矩阵II().GenerateMatrix2(3);
-int[][] df = new int[1][];
-df[0] = new int[] { 6, 9, 7 };
-new Solution54螺旋矩阵().SpiralOrder(df);
+// int[][] df = new int[1][];
+// df[0] = new int[] { 6, 9, 7 };
+// new Solution54螺旋矩阵().SpiralOrder(df);
+
+new Solution剑指Offer29顺时针打印矩阵().SpiralOrder(new int[][]{});
