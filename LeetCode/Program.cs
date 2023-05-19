@@ -11,6 +11,7 @@ using LeetCode.栈;
 using LeetCode.树;
 using LeetCode.模拟;
 using LeetCode.滑动窗口;
+using LeetCode.链表;
 using Newtonsoft.Json;
 using RazorEngine;
 using RazorEngine.Templating;
@@ -112,4 +113,11 @@ Console.WriteLine("Hello, World!");
 // df[0] = new int[] { 6, 9, 7 };
 // new Solution54螺旋矩阵().SpiralOrder(df);
 
-new Solution剑指Offer29顺时针打印矩阵().SpiralOrder(new int[][]{});
+// new Solution剑指Offer29顺时针打印矩阵().SpiralOrder(new int[][]{});
+
+var myLinkedList = new MyLinkedList();
+myLinkedList.AddAtHead(1);
+myLinkedList.AddAtTail(3);
+myLinkedList.AddAtIndex(1,2);
+myLinkedList.Get(1);
+myLinkedList.DeleteAtIndex(1);
