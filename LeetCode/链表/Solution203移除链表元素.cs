@@ -20,7 +20,6 @@ public class Solution203移除链表元素
         // 链表的定义具有递归的性质，因此链表题目常可以用递归的方法求解。
         public ListNode RemoveElements(ListNode head, int val)
         {
-
             if (head == null)
             {
                 return head;
@@ -29,8 +28,8 @@ public class Solution203移除链表元素
             head.next = RemoveElements(head.next, val);
             return head.val == val ? head.next : head;
         }
-        
-        // 迭代遍历
+
+        // 迭代遍历 添加虚拟结点
         public ListNode RemoveElements1(ListNode head, int val)
         {
             ListNode node = new ListNode(0);
@@ -49,6 +48,35 @@ public class Solution203移除链表元素
             }
 
             return node.next;
+        }
+
+        // 迭代遍历，不添加虚拟结点
+        public ListNode RemoveElements2(ListNode head, int val)
+        {
+            if (head == null)
+            {
+                return head;
+            }
+
+            while (head != null && head.val == val)
+            {
+                head = head.next;
+            }
+
+            ListNode node = head;
+            while (node != null && node.next != null)
+            {
+                if (node.next.val == val)
+                {
+                    node.next = node.next.next;
+                }
+                else
+                {
+                    node = node.next;
+                }
+            }
+
+            return head;
         }
     }
 }
