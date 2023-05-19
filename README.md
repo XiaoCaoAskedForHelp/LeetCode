@@ -85,6 +85,7 @@
 - [`链表`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/链表)
   - [`Solution141环形链表.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution141环形链表.cs)
   - [`Solution203移除链表元素.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution203移除链表元素.cs)
+  - [`Solution707设计链表.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution707设计链表.cs)
 - [`动态规划`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/动态规划)
   - [`Solution1326灌溉花园的最少水龙头数目.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1326灌溉花园的最少水龙头数目.cs)
   - [`Solution1140石子游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1140石子游戏.cs)
