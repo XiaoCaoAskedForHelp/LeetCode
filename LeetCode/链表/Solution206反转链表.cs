@@ -58,7 +58,7 @@ public class Solution206反转链表
         // cur = temp;
         return Reverse(cur, temp);
     }
-    
+
     //递归 从后往前翻转指针指向
     public ListNode ReverseList2(ListNode head)
     {
@@ -75,5 +75,54 @@ public class Solution206反转链表
         // 此时的 head 节点为尾节点，next 需要指向 NULL,否则递归将覆盖
         head.next = null;
         return last;
+    }
+
+    // 迭代方法： 增加虚拟头节点，使用头插法实现链表的翻转
+    public ListNode ReverseList3(ListNode head)
+    {
+        ListNode dumyHead = new ListNode(-1);
+        dumyHead.next = null;
+        ListNode cur = head;
+        while (cur != null)
+        {
+            ListNode temp = cur.next;
+            // 将原链表的中的元素，插入头节点和下一个节点之间
+            cur.next = dumyHead.next;
+            dumyHead.next = cur;
+            cur = temp;
+        }
+
+        return dumyHead.next;
+    }
+
+    //使用栈解决反转链表的问题
+    public ListNode ReverseList4(ListNode head)
+    {
+        if (head == null || head.next == null)
+        {
+            return head;
+        }
+
+        Stack<ListNode> stack = new Stack<ListNode>();
+        ListNode cur = head;
+        while (cur != null)
+        {
+            stack.Push(cur);
+            cur = cur.next;
+        }
+
+        // 创建一个虚拟头节点
+        ListNode phead = new ListNode(0);
+        cur = phead;
+        while (stack.Any())
+        {
+            ListNode node = stack.Pop();
+            cur.next = node;
+            cur = cur.next;
+        }
+
+        // 最后一个元素的next要复制为空
+        cur.next = null;
+        return phead.next;
     }
 }
