@@ -129,4 +129,6 @@ for (int i = 2; i <= 5; i++)
     head.next = new ListNode(i);
     head = head.next;
 }
-new Solution206反转链表().ReverseList2(node);
+// new Solution206反转链表().ReverseList2(node);
+
+new Solution24两两交换链表中的节点().SwapPairs(node);
