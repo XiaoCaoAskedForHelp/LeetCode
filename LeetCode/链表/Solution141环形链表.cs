@@ -5,10 +5,10 @@ public class ListNode
     public int val;
     public ListNode next;
 
-    public ListNode(int x)
+    public ListNode(int val, ListNode next = null)
     {
-        val = x;
-        next = null;
+        this.val = val;
+        this.next = next;
     }
 }
 
@@ -23,6 +23,7 @@ public class Solution141环形链表
             {
                 return true;
             }
+
             head = head.next;
         }
 
