@@ -83,6 +83,7 @@
   - [`Solution977.有序数组的平方.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数组/Solution977.有序数组的平方.cs)
   - [`Solution704二分查找.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/数组/Solution704二分查找.cs)
 - [`链表`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/链表)
+  - [`Solution142.环形链表II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution142.环形链表II.cs)
   - [`Solution19除链表的倒数第N个结点.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution19除链表的倒数第N个结点.cs)
   - [`Solution24两两交换链表中的节点.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution24两两交换链表中的节点.cs)
   - [`Solution206反转链表.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution206反转链表.cs)
