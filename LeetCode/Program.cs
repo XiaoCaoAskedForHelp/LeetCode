@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System.Text.RegularExpressions;
+using System.Threading.Channels;
 using LeetCode;
 using LeetCode.哈希表;
 using LeetCode.太简单;
@@ -122,13 +123,14 @@ Console.WriteLine("Hello, World!");
 // myLinkedList.Get(1);
 // myLinkedList.DeleteAtIndex(1);
 
-ListNode head = new ListNode(1);
-ListNode node = head;
-for (int i = 2; i <= 5; i++)
-{
-    head.next = new ListNode(i);
-    head = head.next;
-}
-// new Solution206反转链表().ReverseList2(node);
+// ListNode head = new ListNode(1);
+// ListNode node = head;
+// for (int i = 2; i <= 5; i++)
+// {
+//     head.next = new ListNode(i);
+//     head = head.next;
+// }
+// // new Solution206反转链表().ReverseList2(node);
+//
+// new Solution24两两交换链表中的节点().SwapPairs(node);
 
-new Solution24两两交换链表中的节点().SwapPairs(node);
