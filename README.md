@@ -1,6 +1,7 @@
 # My LeetCode List
 
 - [`哈希表`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/哈希表)
+  - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/总结.md)
   - [`Solution2363合并相似的物品.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution2363合并相似的物品.cs)
   - [`Solution2347最好的扑克手牌.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution2347最好的扑克手牌.cs)
   - [`Solution1590使数组和能被P整除.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution1590使数组和能被P整除.cs)
@@ -8,6 +9,7 @@
   - [`Solution1两数之和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution1两数之和.cs)
   - [`Solution2404出现最频繁的偶数元素.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution2404出现最频繁的偶数元素.cs)
   - [`Solution1487保证文件名唯一.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution1487保证文件名唯一.cs)
+  - [`Solution242有效的字母异位词.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution242有效的字母异位词.cs)
   - [`Solution205同构字符串.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution205同构字符串.cs)
 - [`状态压缩`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/状态压缩)
   - [`Solution1255得分最高的单词集合.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/状态压缩/Solution1255得分最高的单词集合.cs)
