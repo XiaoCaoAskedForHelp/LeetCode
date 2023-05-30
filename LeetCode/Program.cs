@@ -134,3 +134,4 @@ Console.WriteLine("Hello, World!");
 //
 // new Solution24两两交换链表中的节点().SwapPairs(node);
 
+new Solution49字母异位词分组().GroupAnagrams1(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
