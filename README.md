@@ -2,6 +2,7 @@
 
 - [`哈希表`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/哈希表)
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/总结.md)
+  - [`Solution49字母异位词分组.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution49字母异位词分组.cs)
   - [`Solution2363合并相似的物品.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution2363合并相似的物品.cs)
   - [`Solution2347最好的扑克手牌.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution2347最好的扑克手牌.cs)
   - [`Solution1590使数组和能被P整除.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution1590使数组和能被P整除.cs)
