@@ -43,6 +43,7 @@ public class Solution438找到字符串中所有字母异位词
         return res;
     }
 
+    // 优化滑动窗口，通过字母不同的数量进行判别
     public IList<int> FindAnagrams1(string s, string p)
     {
         int sLen = s.Length, pLen = p.Length;
@@ -81,7 +82,8 @@ public class Solution438找到字符串中所有字母异位词
             {
                 differ--;
             }
-            else
+            else if (count[s[i] - 'a'] == -1)
+
             {
                 differ++;
             }
@@ -91,7 +93,7 @@ public class Solution438找到字符串中所有字母异位词
             {
                 differ--;
             }
-            else
+            else if (count[s[i + pLen] - 'a'] == 1)
             {
                 differ++;
             }

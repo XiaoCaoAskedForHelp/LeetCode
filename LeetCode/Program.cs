@@ -136,4 +136,4 @@ Console.WriteLine("Hello, World!");
 
 // new Solution49字母异位词分组().GroupAnagrams1(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
 
-new Solution438找到字符串中所有字母异位词().FindAnagrams1("cbaebabacd", "abc");
+new Solution438找到字符串中所有字母异位词().FindAnagrams1("bpaa", "aa");
