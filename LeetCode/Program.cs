@@ -134,4 +134,6 @@ Console.WriteLine("Hello, World!");
 //
 // new Solution24两两交换链表中的节点().SwapPairs(node);
 
-new Solution49字母异位词分组().GroupAnagrams1(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
+// new Solution49字母异位词分组().GroupAnagrams1(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
+
+new Solution438找到字符串中所有字母异位词().FindAnagrams1("cbaebabacd", "abc");
