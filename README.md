@@ -18,6 +18,7 @@
   - [`Solution2347最好的扑克手牌.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution2347最好的扑克手牌.cs)
   - [`Solution242有效的字母异位词.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution242有效的字母异位词.cs)
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/总结.md)
+  - [`Solution349两个数组的交集.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution349两个数组的交集.cs)
   - [`Solution2363合并相似的物品.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution2363合并相似的物品.cs)
   - [`Solution1两数之和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution1两数之和.cs)
   - [`Solution2341数组能形成多少数对.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution2341数组能形成多少数对.cs)
