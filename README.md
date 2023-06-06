@@ -16,6 +16,7 @@
   - [`Solution205同构字符串.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution205同构字符串.cs)
   - [`Solution438找到字符串中所有字母异位词.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution438找到字符串中所有字母异位词.cs)
   - [`Solution2347最好的扑克手牌.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution2347最好的扑克手牌.cs)
+  - [`Solution350两个数组的交集II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution350两个数组的交集II.cs)
   - [`Solution242有效的字母异位词.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution242有效的字母异位词.cs)
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/总结.md)
   - [`Solution349两个数组的交集.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution349两个数组的交集.cs)
