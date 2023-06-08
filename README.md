@@ -12,6 +12,7 @@
   - [`Solution1487保证文件名唯一.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution1487保证文件名唯一.cs)
   - [`Solution49字母异位词分组.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution49字母异位词分组.cs)
   - [`Solution1590使数组和能被P整除.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution1590使数组和能被P整除.cs)
+  - [`Solution383赎金信.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution383赎金信.cs)
   - [`Solution2404出现最频繁的偶数元素.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution2404出现最频繁的偶数元素.cs)
   - [`Solution205同构字符串.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution205同构字符串.cs)
   - [`Solution438找到字符串中所有字母异位词.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/哈希表/Solution438找到字符串中所有字母异位词.cs)
