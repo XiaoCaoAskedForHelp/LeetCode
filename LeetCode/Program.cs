@@ -3,6 +3,7 @@
 using System.Text.RegularExpressions;
 using System.Threading.Channels;
 using LeetCode;
+using LeetCode.双指针;
 using LeetCode.哈希表;
 using LeetCode.太简单;
 using LeetCode.数学;
@@ -136,4 +137,7 @@ Console.WriteLine("Hello, World!");
 
 // new Solution49字母异位词分组().GroupAnagrams1(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
 
-new Solution438找到字符串中所有字母异位词().FindAnagrams1("bpaa", "aa");
+// new Solution438找到字符串中所有字母异位词().FindAnagrams1("bpaa", "aa");
+
+var df = new int[] { 2, 2, 2, 2, 2 };
+new Solution18四数之和().FourSum(df, 8);
