@@ -4,6 +4,7 @@ namespace LeetCode.哈希表;
 
 public class Solution438找到字符串中所有字母异位词
 {
+    // 滑动窗口，窗口长度为字符串的长度，然后循环每次前进1，进行序列比较。
     public IList<int> FindAnagrams(string s, string p)
     {
         int sLen = s.Length, pLen = p.Length;
@@ -44,6 +45,7 @@ public class Solution438找到字符串中所有字母异位词
     }
 
     // 优化滑动窗口，通过字母不同的数量进行判别
+    // differ为不同的字母的个数
     public IList<int> FindAnagrams1(string s, string p)
     {
         int sLen = s.Length, pLen = p.Length;

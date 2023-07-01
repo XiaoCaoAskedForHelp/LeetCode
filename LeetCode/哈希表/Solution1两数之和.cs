@@ -23,6 +23,8 @@ public class Solution1两数之和
         // return new int[0];
 
         //哈希表 将寻找target-nums[i]这个循环降为o(1)
+        
+        // 哈希表不需要开始就创建，一般互补的东西在可以在第一次加入哈希表，在第二次就可以查找出来。
         Dictionary<int, int> dictionary = new Dictionary<int, int>();
         for (int i = 0; i < nums.Length; i++)
         {
