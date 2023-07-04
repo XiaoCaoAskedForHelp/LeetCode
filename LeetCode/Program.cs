@@ -6,6 +6,7 @@ using LeetCode;
 using LeetCode.双指针;
 using LeetCode.哈希表;
 using LeetCode.太简单;
+using LeetCode.字符串;
 using LeetCode.数学;
 using LeetCode.数组;
 using LeetCode.枚举;
@@ -139,5 +140,7 @@ Console.WriteLine("Hello, World!");
 
 // new Solution438找到字符串中所有字母异位词().FindAnagrams1("bpaa", "aa");
 
-var df = new int[] { 2, 2, 2, 2, 2 };
-new Solution18四数之和().FourSum(df, 8);
+// var df = new int[] { 2, 2, 2, 2, 2 };
+// new Solution18四数之和().FourSum(df, 8);
+
+new Solution541反转字符串II().ReverseStr("abcdefg", 8);
