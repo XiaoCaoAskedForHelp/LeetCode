@@ -143,4 +143,6 @@ Console.WriteLine("Hello, World!");
 // var df = new int[] { 2, 2, 2, 2, 2 };
 // new Solution18四数之和().FourSum(df, 8);
 
-new Solution541反转字符串II().ReverseStr("abcdefg", 8);
+// new Solution541反转字符串II().ReverseStr("abcdefg", 8);
+
+new Solution剑指Offer05替换空格().ReplaceSpace1("We are happy.");
