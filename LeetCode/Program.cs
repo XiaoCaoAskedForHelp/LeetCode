@@ -145,4 +145,6 @@ Console.WriteLine("Hello, World!");
 
 // new Solution541反转字符串II().ReverseStr("abcdefg", 8);
 
-new Solution剑指Offer05替换空格().ReplaceSpace1("We are happy.");
+// new Solution剑指Offer05替换空格().ReplaceSpace1("We are happy.");
+
+new Solution151反转字符串中的单词().ReverseWords2("  hello world  ");
