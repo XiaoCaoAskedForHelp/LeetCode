@@ -148,3 +148,5 @@ Console.WriteLine("Hello, World!");
 // new Solution剑指Offer05替换空格().ReplaceSpace1("We are happy.");
 
 // new Solution151反转字符串中的单词().ReverseWords2("  hello world  ");
+
+new Solution28找出字符串中第一个匹配项的下标().StrStr1("sadbutsad","ababac");
