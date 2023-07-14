@@ -54,6 +54,8 @@
   - [`Solution1096花括号展开.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution1096花括号展开.cs)
   - [`Solution20有效的括号.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution20有效的括号.cs)
   - [`Solution1124表现良好的最长时间段.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution1124表现良好的最长时间段.cs)
+  - [`Solution232用栈实现队列`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution232用栈实现队列)
+  - [`.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/.cs)
 - [`链表`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/链表)
   - [`Solution面试题0207链表相交.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution面试题0207链表相交.cs)
   - [`Solution203移除链表元素.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution203移除链表元素.cs)
