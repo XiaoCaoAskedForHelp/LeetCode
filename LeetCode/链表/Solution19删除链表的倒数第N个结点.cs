@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.链表;
 
-public class Solution19除链表的倒数第N个结点
+public class Solution19删除链表的倒数第N个结点
 {
     // 计算链表的长度
     public ListNode RemoveNthFromEnd(ListNode head, int n)
