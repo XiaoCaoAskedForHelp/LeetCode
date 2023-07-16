@@ -117,6 +117,7 @@
   - [`Solution88合并两个有序数组.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution88合并两个有序数组.cs)
   - [`Solution18四数之和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/双指针/Solution18四数之和.cs)
 - [`队列`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/队列)
+  - [`Solution225用队列实现栈.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/队列/Solution225用队列实现栈.cs)
   - [`Solution1792最大平均通过率.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/队列/Solution1792最大平均通过率.cs)
 - [`树`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/树)
   - [`Solution100相同的树.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/树/Solution100相同的树.cs)
