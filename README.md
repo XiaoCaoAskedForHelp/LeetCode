@@ -52,6 +52,7 @@
 - [`栈`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/栈)
   - [`Solution844比较含退格的字符串.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution844比较含退格的字符串.cs)
   - [`Solution1096花括号展开.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution1096花括号展开.cs)
+  - [`Solution150逆波兰表达式求值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution150逆波兰表达式求值.cs)
   - [`Solution20有效的括号.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution20有效的括号.cs)
   - [`Solution1047删除字符串中的所有相邻重复项.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution1047删除字符串中的所有相邻重复项.cs)
   - [`Solution1124表现良好的最长时间段.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution1124表现良好的最长时间段.cs)
