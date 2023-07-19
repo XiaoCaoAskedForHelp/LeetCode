@@ -15,6 +15,7 @@ using LeetCode.树;
 using LeetCode.模拟;
 using LeetCode.滑动窗口;
 using LeetCode.链表;
+using LeetCode.队列;
 using Newtonsoft.Json;
 using RazorEngine;
 using RazorEngine.Templating;
@@ -149,4 +150,6 @@ Console.WriteLine("Hello, World!");
 
 // new Solution151反转字符串中的单词().ReverseWords2("  hello world  ");
 
-new Solution28找出字符串中第一个匹配项的下标().StrStr1("sadbutsad","ababac");
+// new Solution28找出字符串中第一个匹配项的下标().StrStr1("sadbutsad","ababac");
+
+new Solution239滑动窗口最大值().MaxSlidingWindow(new int[] { 1, 3, -1, -3, 5, 3, 6, 7 }, 3);
