@@ -33,4 +33,54 @@ public class 单调栈_Solution739每日温度
 
         return res;
     }
+
+    public int[] DailyTemperatures1(int[] temperatures)
+    {
+        // 递增栈（从栈头到栈尾）
+        Stack<int> st = new();
+        int[] res = new int[temperatures.Length];
+        st.Push(0);
+        for (int i = 1; i < temperatures.Length; i++)
+        {
+            if (temperatures[i] <= temperatures[st.Peek()])
+            {
+                st.Push(i); //当前遍历的元素T[i]小于等于栈顶元素T[st.top()]的情况
+            }
+            else
+            {
+                // 当前遍历的元素T[i]大于栈顶元素T[st.top()]的情况
+                while (st.Any() && temperatures[i] > temperatures[st.Peek()])
+                {
+                    res[st.Peek()] = i - st.Peek();
+                    st.Pop();
+                }
+
+                st.Push(i);
+            }
+        }
+
+        return res;
+    }
+
+
+    // 代码优化
+    public int[] DailyTemperatures2(int[] temperatures)
+    {
+        // 递增栈（从栈头到栈尾）
+        Stack<int> st = new();
+        int[] res = new int[temperatures.Length];
+        for (int i = 0; i < temperatures.Length; i++)
+        {
+            // 当前遍历的元素T[i]大于栈顶元素T[st.top()]的情况
+            while (st.Any() && temperatures[i] > temperatures[st.Peek()])  //注意栈不能为空
+            {
+                res[st.Peek()] = i - st.Peek();
+                st.Pop();
+            }
+
+            st.Push(i);  // 最终都是将比栈顶小的元素push进去，所以可以合并
+        }
+
+        return res;
+    }
 }
