@@ -50,6 +50,7 @@
 - [`分治法`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/分治法)
   - [`Soluton190颠倒二进制位.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/分治法/Soluton190颠倒二进制位.cs)
 - [`栈`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/栈)
+  - [`单调栈-Solution496下一个更大元素I.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/单调栈-Solution496下一个更大元素I.cs)
   - [`Solution844比较含退格的字符串.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution844比较含退格的字符串.cs)
   - [`Solution1096花括号展开.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution1096花括号展开.cs)
   - [`Solution150逆波兰表达式求值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution150逆波兰表达式求值.cs)
