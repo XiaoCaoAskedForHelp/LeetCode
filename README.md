@@ -60,6 +60,7 @@
   - [`栈和队列总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/栈和队列总结.md)
   - [`Solution232用栈实现队列`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution232用栈实现队列)
   - [`.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/.cs)
+  - [`Solution503下一个更大元素.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution503下一个更大元素.cs)
   - [`Solution71简化路径.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution71简化路径.cs)
   - [`单调栈-Solution739每日温度.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/单调栈-Solution739每日温度.cs)
 - [`链表`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/链表)
