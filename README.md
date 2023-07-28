@@ -53,6 +53,7 @@
   - [`单调栈-Solution496下一个更大元素I.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/单调栈-Solution496下一个更大元素I.cs)
   - [`Solution844比较含退格的字符串.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution844比较含退格的字符串.cs)
   - [`单调栈-Solution42接雨水.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/单调栈-Solution42接雨水.cs)
+  - [`单调栈-Solution84柱状图中最大的矩形.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/单调栈-Solution84柱状图中最大的矩形.cs)
   - [`Solution1096花括号展开.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution1096花括号展开.cs)
   - [`Solution150逆波兰表达式求值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution150逆波兰表达式求值.cs)
   - [`Solution20有效的括号.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution20有效的括号.cs)
