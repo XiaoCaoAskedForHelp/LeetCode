@@ -3,6 +3,7 @@
 using System.Text.RegularExpressions;
 using System.Threading.Channels;
 using LeetCode;
+using LeetCode.动态规划;
 using LeetCode.双指针;
 using LeetCode.哈希表;
 using LeetCode.太简单;
@@ -152,4 +153,6 @@ Console.WriteLine("Hello, World!");
 
 // new Solution28找出字符串中第一个匹配项的下标().StrStr1("sadbutsad","ababac");
 
-new Solution239滑动窗口最大值().MaxSlidingWindow(new int[] { 1, 3, -1, -3, 5, 3, 6, 7 }, 3);
+// new Solution239滑动窗口最大值().MaxSlidingWindow(new int[] { 1, 3, -1, -3, 5, 3, 6, 7 }, 3);
+
+new Solution62不同路径().UniquePaths2(3,7);
