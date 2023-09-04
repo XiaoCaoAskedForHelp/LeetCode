@@ -80,6 +80,7 @@
   - [`Solution1326灌溉花园的最少水龙头数目.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1326灌溉花园的最少水龙头数目.cs)
   - [`Solution62不同路径.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution62不同路径.cs)
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/总结.md)
+  - [`Solution63不同路径II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution63不同路径II.cs)
   - [`Solution70爬楼梯.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution70爬楼梯.cs)
   - [`Solution剑指Offer47礼物的最大价值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution剑指Offer47礼物的最大价值.cs)
   - [`Solution1140石子游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1140石子游戏.cs)
