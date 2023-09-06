@@ -85,6 +85,7 @@
   - [`Solution343整数拆分.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution343整数拆分.cs)
   - [`Solution剑指Offer47礼物的最大价值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution剑指Offer47礼物的最大价值.cs)
   - [`Solution1140石子游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1140石子游戏.cs)
+  - [`Solution96不同的二叉搜索树.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution96不同的二叉搜索树.cs)
 - [`树`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/树)
   - [`Solution100相同的树.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/树/Solution100相同的树.cs)
   - [`Solution94二叉树的中序遍历.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/树/Solution94二叉树的中序遍历.cs)
