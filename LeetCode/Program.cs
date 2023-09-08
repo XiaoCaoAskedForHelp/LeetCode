@@ -156,3 +156,9 @@ Console.WriteLine("Hello, World!");
 // new Solution239滑动窗口最大值().MaxSlidingWindow(new int[] { 1, 3, -1, -3, 5, 3, 6, 7 }, 3);
 
 // new Solution62不同路径().UniquePaths2(3,7);
+
+
+int[] weight = { 1, 3, 4 };
+int[] value = { 15, 20, 20 };
+int bagSize = 4;
+new Solution0_1背包().Package0_12(weight, value, bagSize);
