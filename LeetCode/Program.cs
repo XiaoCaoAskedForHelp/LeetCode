@@ -161,4 +161,6 @@ Console.WriteLine("Hello, World!");
 int[] weight = { 1, 3, 4 };
 int[] value = { 15, 20, 20 };
 int bagSize = 4;
-new Solution0_1背包().Package0_12(weight, value, bagSize);
+// new Solution0_1背包().Package0_12(weight, value, bagSize);
+
+new Solution0_1背包2().testWeightBagProblem(weight,value,bagSize);
