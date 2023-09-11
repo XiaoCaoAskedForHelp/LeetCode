@@ -83,6 +83,7 @@
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/总结.md)
   - [`Solution63不同路径II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution63不同路径II.cs)
   - [`Solution70爬楼梯.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution70爬楼梯.cs)
+  - [`Solution0_1背包2.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution0_1背包2.cs)
   - [`Solution343整数拆分.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution343整数拆分.cs)
   - [`Solution剑指Offer47礼物的最大价值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution剑指Offer47礼物的最大价值.cs)
   - [`Solution1140石子游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1140石子游戏.cs)
