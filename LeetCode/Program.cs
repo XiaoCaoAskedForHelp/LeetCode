@@ -158,9 +158,28 @@ Console.WriteLine("Hello, World!");
 // new Solution62不同路径().UniquePaths2(3,7);
 
 
-int[] weight = { 1, 3, 4 };
-int[] value = { 15, 20, 20 };
-int bagSize = 4;
-// new Solution0_1背包().Package0_12(weight, value, bagSize);
+// int[] weight = { 1, 3, 4 };
+// int[] value = { 15, 20, 20 };
+// int bagSize = 4;
+// // new Solution0_1背包().Package0_12(weight, value, bagSize);
+//
+// new Solution0_1背包2().testWeightBagProblem(weight,value,bagSize);
 
-new Solution0_1背包2().testWeightBagProblem(weight,value,bagSize);
+// Console.WriteLine(new Solution0GCD().Gcd1(45,18));
+
+// Console.WriteLine(new Solution0GCD().ExtendedGcd(111, 321));
+//
+// int a = 111;
+// int b = 321;
+// int gcd, s, t;
+//
+// new Solution0GCD().ExtendedGcd1(a, b, out gcd, out s, out t);
+//
+// Console.WriteLine("最大公约数 (GCD): " + gcd);
+// Console.WriteLine("s 值: " + s);
+// Console.WriteLine("t 值: " + t);
+//
+// new Solution0GCD().GeneralSolution(7, 4, 100);
+
+new Solution0GCD().countPrimes(100);
+
