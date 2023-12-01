@@ -15,6 +15,7 @@ using LeetCode.栈;
 using LeetCode.树;
 using LeetCode.模拟;
 using LeetCode.滑动窗口;
+using LeetCode.贪心;
 using LeetCode.链表;
 using LeetCode.队列;
 using Newtonsoft.Json;
@@ -181,5 +182,8 @@ Console.WriteLine("Hello, World!");
 //
 // new Solution0GCD().GeneralSolution(7, 4, 100);
 
-new Solution0GCD().countPrimes(100);
+// new Solution0GCD().countPrimes(100);
 
+int[] nums = { 1, 2, 2, 2, 3, 4, 1 };
+// int[] nums = { 1, 7, 4, 9, 2, 5 };
+new Solution376摆动序列().WiggleMaxLength1(nums);
