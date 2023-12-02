@@ -184,6 +184,9 @@ Console.WriteLine("Hello, World!");
 
 // new Solution0GCD().countPrimes(100);
 
-int[] nums = { 1, 2, 2, 2, 3, 4, 1 };
-// int[] nums = { 1, 7, 4, 9, 2, 5 };
-new Solution376摆动序列().WiggleMaxLength1(nums);
+// int[] nums = { 1, 2, 2, 2, 3, 4, 1 };
+// // int[] nums = { 1, 7, 4, 9, 2, 5 };
+// new Solution376摆动序列().WiggleMaxLength1(nums);
+
+int[] nums = {-2,-1};
+new Solution53最大子数组和().MaxSubArray(nums);
