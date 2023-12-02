@@ -68,6 +68,7 @@
   - [`Solution1247交换字符使得字符串相同.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1247交换字符使得字符串相同.cs)
   - [`Solution1144递减元素使数组呈锯齿状.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1144递减元素使数组呈锯齿状.cs)
   - [`Solution1326灌溉花园的最少水龙头数目.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1326灌溉花园的最少水龙头数目.cs)
+  - [`Solution53最大子数组和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution53最大子数组和.cs)
 - [`链表`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/链表)
   - [`Solution206反转链表.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution206反转链表.cs)
   - [`Solution707设计链表.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/链表/Solution707设计链表.cs)
