@@ -5,6 +5,7 @@ using System.Threading.Channels;
 using LeetCode;
 using LeetCode.动态规划;
 using LeetCode.双指针;
+using LeetCode.周赛;
 using LeetCode.哈希表;
 using LeetCode.太简单;
 using LeetCode.字符串;
@@ -188,5 +189,14 @@ Console.WriteLine("Hello, World!");
 // // int[] nums = { 1, 7, 4, 9, 2, 5 };
 // new Solution376摆动序列().WiggleMaxLength1(nums);
 
-int[] nums = {-2,-1};
-new Solution53最大子数组和().MaxSubArray(nums);
+// int[] nums = {-2,-1};
+// new Solution53最大子数组和().MaxSubArray(nums);
+
+// int[] mountains = {1,4,3,8,5};
+// new 找出峰值().FindPeaks(mountains);
+
+int[] coins = {1,4,10};
+new Solution100153需要添加的硬币的最小数量().MinimumAddedCoins(coins,19);
+
+// string word = "igigee";
+// new Solution100145统计完全子字符串().CountCompleteSubstrings(word,2);
