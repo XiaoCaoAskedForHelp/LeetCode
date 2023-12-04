@@ -64,6 +64,7 @@
   - [`Solution122买卖股票的最佳时机II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution122买卖股票的最佳时机II.cs)
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/总结.md)
   - [`Solution45跳跃游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution45跳跃游戏.cs)
+  - [`Solution55跳跃游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution55跳跃游戏.cs)
   - [`Solution455分发饼干.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution455分发饼干.cs)
   - [`Solution376摆动序列.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution376摆动序列.cs)
   - [`Solution1247交换字符使得字符串相同.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1247交换字符使得字符串相同.cs)
