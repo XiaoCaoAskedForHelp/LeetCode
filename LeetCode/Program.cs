@@ -195,8 +195,11 @@ Console.WriteLine("Hello, World!");
 // int[] mountains = {1,4,3,8,5};
 // new 找出峰值().FindPeaks(mountains);
 
-int[] coins = {1,4,10};
-new Solution100153需要添加的硬币的最小数量().MinimumAddedCoins(coins,19);
+// int[] coins = {1,4,10};
+// new Solution100153需要添加的硬币的最小数量().MinimumAddedCoins(coins,19);
 
 // string word = "igigee";
 // new Solution100145统计完全子字符串().CountCompleteSubstrings(word,2);
+
+int[] nums = {3,2,1,0,4};
+new Solution55跳跃游戏().CanJump1(nums);
