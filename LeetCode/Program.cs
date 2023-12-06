@@ -201,5 +201,8 @@ Console.WriteLine("Hello, World!");
 // string word = "igigee";
 // new Solution100145统计完全子字符串().CountCompleteSubstrings(word,2);
 
-int[] nums = {3,2,1,0,4};
-new Solution55跳跃游戏().CanJump1(nums);
+// int[] nums = {3,2,1,0,4};
+// new Solution55跳跃游戏().CanJump1(nums);
+
+int[] nums = {2,3,1,1,4};
+new Solution45跳跃游戏II().Jump1(nums);
