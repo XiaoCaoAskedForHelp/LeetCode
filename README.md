@@ -64,6 +64,8 @@
   - [`Solution122买卖股票的最佳时机II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution122买卖股票的最佳时机II.cs)
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/总结.md)
   - [`Solution45跳跃游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution45跳跃游戏.cs)
+  - [`Solution1005K`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1005K)
+  - [`次取反后最大化的数组和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/次取反后最大化的数组和.cs)
   - [`Solution55跳跃游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution55跳跃游戏.cs)
   - [`Solution45跳跃游戏II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution45跳跃游戏II.cs)
   - [`Solution455分发饼干.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution455分发饼干.cs)
