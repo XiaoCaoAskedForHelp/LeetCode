@@ -207,5 +207,9 @@ Console.WriteLine("Hello, World!");
 // int[] nums = {2,3,1,1,4};
 // new Solution45跳跃游戏II().Jump1(nums);
 
-int[] nums = { -4,-2,-3 };
-new Solution1005K_次取反后最大化的数组和().LargestSumAfterKNegations1(nums, 4);
+// int[] nums = { -4,-2,-3 };
+// new Solution1005K_次取反后最大化的数组和().LargestSumAfterKNegations1(nums, 4);
+
+int[] gas = {1,2,3,4,5};
+int[] cost = {3,4,5,1,2};
+new Solution134加油站().CanCompleteCircuit(gas,cost);
