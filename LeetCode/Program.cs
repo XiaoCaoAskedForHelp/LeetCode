@@ -210,6 +210,9 @@ Console.WriteLine("Hello, World!");
 // int[] nums = { -4,-2,-3 };
 // new Solution1005K_次取反后最大化的数组和().LargestSumAfterKNegations1(nums, 4);
 
-int[] gas = {1,2,3,4,5};
-int[] cost = {3,4,5,1,2};
-new Solution134加油站().CanCompleteCircuit(gas,cost);
+// int[] gas = {1,2,3,4,5};
+// int[] cost = {3,4,5,1,2};
+// new Solution134加油站().CanCompleteCircuit(gas,cost);
+
+int[] ratings = {1,0,2};
+new Solution135分发糖果().Candy(ratings);
