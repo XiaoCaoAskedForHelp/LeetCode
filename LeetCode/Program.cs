@@ -214,5 +214,15 @@ Console.WriteLine("Hello, World!");
 // int[] cost = {3,4,5,1,2};
 // new Solution134加油站().CanCompleteCircuit(gas,cost);
 
-int[] ratings = {1,0,2};
-new Solution135分发糖果().Candy(ratings);
+// int[] ratings = {1,0,2};
+// new Solution135分发糖果().Candy(ratings);
+
+// [[7,0],[4,4],[7,1],[5,0],[6,1],[5,2]]
+int[][] queue = new int[6][];
+queue[0] = new[] { 7, 0 };
+queue[1] = new[] { 4, 4 };
+queue[2] = new[] { 7, 1 };
+queue[3] = new[] { 5, 0 };
+queue[4] = new[] { 6, 1 };
+queue[5] = new[] { 5, 2 };
+new Solution406根据身高重建队列().ReconstructQueue(queue);
