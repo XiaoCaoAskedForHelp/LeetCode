@@ -143,6 +143,7 @@
   - [`Solution1096花括号展开.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/Solution1096花括号展开.cs)
   - [`单调栈-Solution42接雨水.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/栈/单调栈-Solution42接雨水.cs)
 - [`贪心`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/贪心)
+  - [`Solution406根据身高重建队列.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution406根据身高重建队列.cs)
   - [`Solution1247交换字符使得字符串相同.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1247交换字符使得字符串相同.cs)
   - [`Solution1005K`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1005K)
   - [`次取反后最大化的数组和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/次取反后最大化的数组和.cs)
