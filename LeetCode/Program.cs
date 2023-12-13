@@ -218,11 +218,28 @@ Console.WriteLine("Hello, World!");
 // new Solution135分发糖果().Candy(ratings);
 
 // [[7,0],[4,4],[7,1],[5,0],[6,1],[5,2]]
-int[][] queue = new int[6][];
-queue[0] = new[] { 7, 0 };
-queue[1] = new[] { 4, 4 };
-queue[2] = new[] { 7, 1 };
-queue[3] = new[] { 5, 0 };
-queue[4] = new[] { 6, 1 };
-queue[5] = new[] { 5, 2 };
-new Solution406根据身高重建队列().ReconstructQueue(queue);
+// int[][] queue = new int[6][];
+// queue[0] = new[] { 7, 0 };
+// queue[1] = new[] { 4, 4 };
+// queue[2] = new[] { 7, 1 };
+// queue[3] = new[] { 5, 0 };
+// queue[4] = new[] { 6, 1 };
+// queue[5] = new[] { 5, 2 };
+// new Solution406根据身高重建队列().ReconstructQueue(queue);
+
+// [[9,12],[1,10],[4,11],[8,12],[3,9],[6,9],[6,7]]
+// int[][] points = new int[][] {
+//     ,new int[] {9, 12},
+                         //     new int[] {1, 10}
+//     new int[] {4, 11},
+//     new int[] {8, 12},
+//     new int[] {3, 9},
+//     new int[] {6, 9},
+//     new int[] {6, 7}
+// };
+int[][] points = new int[][]
+{
+    new int[] { -2147483646, -2147483645 },
+    new int[] { 2147483646, 2147483647 }
+};
+new Solution452用最少数量的箭引爆气球().FindMinArrowShots1(points);
