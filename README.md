@@ -148,6 +148,7 @@
   - [`Solution1005K`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1005K)
   - [`次取反后最大化的数组和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/次取反后最大化的数组和.cs)
   - [`Solution45跳跃游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution45跳跃游戏.cs)
+  - [`Solution452用最少数量的箭引爆气球.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution452用最少数量的箭引爆气球.cs)
   - [`Solution455分发饼干.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution455分发饼干.cs)
   - [`Solution122买卖股票的最佳时机II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution122买卖股票的最佳时机II.cs)
   - [`Solution1326灌溉花园的最少水龙头数目.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1326灌溉花园的最少水龙头数目.cs)
