@@ -237,9 +237,26 @@ Console.WriteLine("Hello, World!");
 //     new int[] {6, 9},
 //     new int[] {6, 7}
 // };
-int[][] points = new int[][]
-{
-    new int[] { -2147483646, -2147483645 },
-    new int[] { 2147483646, 2147483647 }
+// int[][] points = new int[][]
+// {
+//     new int[] { -2147483646, -2147483645 },
+//     new int[] { 2147483646, 2147483647 }
+// };
+// new Solution452用最少数量的箭引爆气球().FindMinArrowShots1(points);
+
+
+int[][] intervals = new int[][] {
+    new int[] {-52, 31},
+    new int[] {-73, -26},
+    new int[] {82, 97},
+    new int[] {-65, -11},
+    new int[] {-62, -49},
+    new int[] {95, 99},
+    new int[] {58, 95},
+    new int[] {-31, 49},
+    new int[] {66, 98},
+    new int[] {-63, 2},
+    new int[] {30, 47},
+    new int[] {-40, -26}
 };
-new Solution452用最少数量的箭引爆气球().FindMinArrowShots1(points);
+new Solution435无重叠区间().EraseOverlapIntervals(intervals);
