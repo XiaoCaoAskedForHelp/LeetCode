@@ -22,6 +22,7 @@
 - [`贪心`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/贪心)
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/总结.md)
   - [`Solution1144递减元素使数组呈锯齿状.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1144递减元素使数组呈锯齿状.cs)
+  - [`Solution763划分字母区间.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution763划分字母区间.cs)
   - [`Solution376摆动序列.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution376摆动序列.cs)
   - [`Solution452用最少数量的箭引爆气球.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution452用最少数量的箭引爆气球.cs)
   - [`Solution135分发糖果.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution135分发糖果.cs)
