@@ -245,18 +245,21 @@ Console.WriteLine("Hello, World!");
 // new Solution452用最少数量的箭引爆气球().FindMinArrowShots1(points);
 
 
-int[][] intervals = new int[][] {
-    new int[] {-52, 31},
-    new int[] {-73, -26},
-    new int[] {82, 97},
-    new int[] {-65, -11},
-    new int[] {-62, -49},
-    new int[] {95, 99},
-    new int[] {58, 95},
-    new int[] {-31, 49},
-    new int[] {66, 98},
-    new int[] {-63, 2},
-    new int[] {30, 47},
-    new int[] {-40, -26}
-};
-new Solution435无重叠区间().EraseOverlapIntervals(intervals);
+// int[][] intervals = new int[][] {
+//     new int[] {-52, 31},
+//     new int[] {-73, -26},
+//     new int[] {82, 97},
+//     new int[] {-65, -11},
+//     new int[] {-62, -49},
+//     new int[] {95, 99},
+//     new int[] {58, 95},
+//     new int[] {-31, 49},
+//     new int[] {66, 98},
+//     new int[] {-63, 2},
+//     new int[] {30, 47},
+//     new int[] {-40, -26}
+// };
+// new Solution435无重叠区间().EraseOverlapIntervals(intervals);
+
+string s = "ababcbacadefegdehijhklij";
+new Solution763划分字母区间().PartitionLabels(s);
