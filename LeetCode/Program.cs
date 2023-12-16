@@ -230,7 +230,7 @@ Console.WriteLine("Hello, World!");
 // [[9,12],[1,10],[4,11],[8,12],[3,9],[6,9],[6,7]]
 // int[][] points = new int[][] {
 //     ,new int[] {9, 12},
-                         //     new int[] {1, 10}
+//     new int[] {1, 10}
 //     new int[] {4, 11},
 //     new int[] {8, 12},
 //     new int[] {3, 9},
@@ -261,5 +261,14 @@ Console.WriteLine("Hello, World!");
 // };
 // new Solution435无重叠区间().EraseOverlapIntervals(intervals);
 
-string s = "ababcbacadefegdehijhklij";
-new Solution763划分字母区间().PartitionLabels(s);
+// string s = "ababcbacadefegdehijhklij";
+// new Solution763划分字母区间().PartitionLabels(s);
+
+int[][] intervals = new int[][]
+{
+    new int[] { 1, 3 },
+    new int[] { 2, 6 },
+    new int[] { 15, 18 },
+    new int[] { 8, 10 }
+};
+new Solution56合并区间().Merge(intervals);
