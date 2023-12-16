@@ -38,6 +38,7 @@
   - [`Solution1005K`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1005K)
   - [`次取反后最大化的数组和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/次取反后最大化的数组和.cs)
   - [`Solution122买卖股票的最佳时机II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution122买卖股票的最佳时机II.cs)
+  - [`Solution56合并区间.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution56合并区间.cs)
   - [`Solution406根据身高重建队列.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution406根据身高重建队列.cs)
   - [`Solution45跳跃游戏II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution45跳跃游戏II.cs)
 - [`栈`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/栈)
