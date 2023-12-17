@@ -20,6 +20,7 @@
 - [`状态压缩`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/状态压缩)
   - [`Solution1255得分最高的单词集合.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/状态压缩/Solution1255得分最高的单词集合.cs)
 - [`贪心`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/贪心)
+  - [`Solution738单调递增的数字.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution738单调递增的数字.cs)
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/总结.md)
   - [`Solution1144递减元素使数组呈锯齿状.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1144递减元素使数组呈锯齿状.cs)
   - [`Solution763划分字母区间.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution763划分字母区间.cs)
