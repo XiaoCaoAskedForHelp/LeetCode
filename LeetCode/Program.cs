@@ -264,11 +264,14 @@ Console.WriteLine("Hello, World!");
 // string s = "ababcbacadefegdehijhklij";
 // new Solution763划分字母区间().PartitionLabels(s);
 
-int[][] intervals = new int[][]
-{
-    new int[] { 1, 3 },
-    new int[] { 2, 6 },
-    new int[] { 15, 18 },
-    new int[] { 8, 10 }
-};
-new Solution56合并区间().Merge(intervals);
+// int[][] intervals = new int[][]
+// {
+//     new int[] { 1, 3 },
+//     new int[] { 2, 6 },
+//     new int[] { 15, 18 },
+//     new int[] { 8, 10 }
+// };
+// new Solution56合并区间().Merge(intervals);
+
+int n = 120;
+new Solution738单调递增的数字().MonotoneIncreasingDigits1(n);
