@@ -31,6 +31,7 @@
   - [`Solution1326灌溉花园的最少水龙头数目.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution1326灌溉花园的最少水龙头数目.cs)
   - [`Solution455分发饼干.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution455分发饼干.cs)
   - [`Solution860柠檬水找零.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution860柠檬水找零.cs)
+  - [`Solution968监控二叉树.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution968监控二叉树.cs)
   - [`Solution134加油站.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution134加油站.cs)
   - [`Solution45跳跃游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution45跳跃游戏.cs)
   - [`Solution53最大子数组和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/贪心/Solution53最大子数组和.cs)
