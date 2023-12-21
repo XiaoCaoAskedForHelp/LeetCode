@@ -276,5 +276,9 @@ Console.WriteLine("Hello, World!");
 // int n = 120;
 // new Solution738单调递增的数字().MonotoneIncreasingDigits1(n);
 
-int[] stones = new []{2,7,4,1,8,1};
-new Solution1049最后一块石头的重量II().LastStoneWeightII(stones);
+// int[] stones = new []{2,7,4,1,8,1};
+// new Solution1049最后一块石头的重量II().LastStoneWeightII(stones);
+
+
+int[] nums = new []{1,1,1,1,1};
+new Solution494目标和().FindTargetSumWays(nums,3);
