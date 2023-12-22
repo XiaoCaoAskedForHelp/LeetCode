@@ -167,6 +167,7 @@
   - [`Solution1326灌溉花园的最少水龙头数目.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1326灌溉花园的最少水龙头数目.cs)
   - [`Solution416分割等和子集.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution416分割等和子集.cs)
   - [`Solution63不同路径II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution63不同路径II.cs)
+  - [`Solution474一和零.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution474一和零.cs)
   - [`Solution1049最后一块石头的重量II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1049最后一块石头的重量II.cs)
   - [`Solution62不同路径.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution62不同路径.cs)
   - [`Solution96不同的二叉搜索树.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution96不同的二叉搜索树.cs)
