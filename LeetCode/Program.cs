@@ -279,6 +279,8 @@ Console.WriteLine("Hello, World!");
 // int[] stones = new []{2,7,4,1,8,1};
 // new Solution1049最后一块石头的重量II().LastStoneWeightII(stones);
 
+// int[] nums = new []{1,1,1,1,1};
+// new Solution494目标和().FindTargetSumWays(nums,3);
 
-int[] nums = new []{1,1,1,1,1};
-new Solution494目标和().FindTargetSumWays(nums,3);
+new Solution完全背包理论基础().testCompletePack();
+new Solution完全背包理论基础().testCompletePack1();
