@@ -282,5 +282,8 @@ Console.WriteLine("Hello, World!");
 // int[] nums = new []{1,1,1,1,1};
 // new Solution494目标和().FindTargetSumWays(nums,3);
 
-new Solution完全背包理论基础().testCompletePack();
-new Solution完全背包理论基础().testCompletePack1();
+// new Solution完全背包理论基础().testCompletePack();
+// new Solution完全背包理论基础().testCompletePack1();
+
+int[] nums = new int[]{1,2,3};
+new Solution377组合总和_().CombinationSum4(nums,4);
