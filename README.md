@@ -161,6 +161,7 @@
 - [`动态规划`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/动态规划)
   - [`Solution343整数拆分.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution343整数拆分.cs)
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/总结.md)
+  - [`Solution377组合总和Ⅳ.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution377组合总和Ⅳ.cs)
   - [`Solution1140石子游戏.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1140石子游戏.cs)
   - [`Solution509斐波那契数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution509斐波那契数.cs)
   - [`Solution494目标和.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution494目标和.cs)
