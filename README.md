@@ -168,6 +168,7 @@
   - [`Solution1326灌溉花园的最少水龙头数目.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1326灌溉花园的最少水龙头数目.cs)
   - [`Solution416分割等和子集.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution416分割等和子集.cs)
   - [`Solution63不同路径II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution63不同路径II.cs)
+  - [`Solution322零钱兑换.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution322零钱兑换.cs)
   - [`Solution474一和零.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution474一和零.cs)
   - [`Solution1049最后一块石头的重量II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1049最后一块石头的重量II.cs)
   - [`Solution62不同路径.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution62不同路径.cs)
@@ -179,4 +180,5 @@
   - [`Solution0_1背包2.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution0_1背包2.cs)
   - [`Solution剑指Offer47礼物的最大价值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution剑指Offer47礼物的最大价值.cs)
   - [`Solution0-1背包.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution0-1背包.cs)
+  - [`Solution70爬楼梯(进阶版).cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution70爬楼梯(进阶版).cs)
   - [`Solution518零钱兑换II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution518零钱兑换II.cs)
