@@ -288,5 +288,7 @@ Console.WriteLine("Hello, World!");
 // int[] nums = new int[]{1,2,3};
 // new Solution377组合总和_().CombinationSum4(nums,4);
 
-int[] coins = new int[]{2};
-new Solution322零钱兑换().CoinChange(coins,3);
+// int[] coins = new int[]{2};
+// new Solution322零钱兑换().CoinChange(coins,3);
+
+new Solution279完全平方数().NumSquares2(12);
