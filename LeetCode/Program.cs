@@ -291,4 +291,7 @@ Console.WriteLine("Hello, World!");
 // int[] coins = new int[]{2};
 // new Solution322零钱兑换().CoinChange(coins,3);
 
-new Solution279完全平方数().NumSquares2(12);
+// new Solution279完全平方数().NumSquares2(12);
+
+string[] wordDict = new string[]{"a"};
+new Solution139单词拆分().WordBreak("a",wordDict);
