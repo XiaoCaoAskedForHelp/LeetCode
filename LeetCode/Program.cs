@@ -293,5 +293,10 @@ Console.WriteLine("Hello, World!");
 
 // new Solution279完全平方数().NumSquares2(12);
 
-string[] wordDict = new string[]{"a"};
-new Solution139单词拆分().WordBreak("a",wordDict);
+// string[] wordDict = new string[]{"a"};
+// new Solution139单词拆分().WordBreak("a",wordDict);
+
+// new Solution多重背包理论基础().testMultiplePack();
+
+var nums = new int[]{2,7,9,3,1};
+new Solution198打家劫舍().Rob(nums);
