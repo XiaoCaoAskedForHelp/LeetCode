@@ -301,5 +301,8 @@ Console.WriteLine("Hello, World!");
 // var nums = new int[]{2,7,9,3,1};
 // new Solution198打家劫舍().Rob(nums);
 
-int[] prices = new []{3,3,5,0,0,3,1,4};
-new Solution123买卖股票的最佳时机III().MaxProfit(prices);
+// int[] prices = new []{3,3,5,0,0,3,1,4};
+// new Solution123买卖股票的最佳时机III().MaxProfit(prices);
+
+int[] prices = new []{2,4,1};
+new Solution188买卖股票的最佳时机IV().MaxProfit(2,prices);
