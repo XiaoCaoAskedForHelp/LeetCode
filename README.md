@@ -179,6 +179,7 @@
   - [`Solution96不同的二叉搜索树.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution96不同的二叉搜索树.cs)
   - [`Solution213打家劫舍II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution213打家劫舍II.cs)
   - [`Solution139单词拆分.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution139单词拆分.cs)
+  - [`Solution300最长递增子序列.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution300最长递增子序列.cs)
   - [`Solution1139最大的以1为边界的正方形.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1139最大的以1为边界的正方形.cs)
   - [`Solution198打家劫舍.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution198打家劫舍.cs)
   - [`Solution完全背包理论基础.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution完全背包理论基础.cs)
