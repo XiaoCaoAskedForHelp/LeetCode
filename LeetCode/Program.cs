@@ -307,5 +307,8 @@ Console.WriteLine("Hello, World!");
 // int[] prices = new []{2,4,1};
 // new Solution188买卖股票的最佳时机IV().MaxProfit(2,prices);
 
-int[] prices = new []{1,2,3,0,2};
-new Solution309买卖股票的最佳时机含冷冻期().MaxProfit(prices);
+// int[] prices = new []{1,2,3,0,2};
+// new Solution309买卖股票的最佳时机含冷冻期().MaxProfit(prices);
+
+int[] nums = {0};
+new Solution300最长递增子序列().LengthOfLIS(nums);
