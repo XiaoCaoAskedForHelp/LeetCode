@@ -184,6 +184,7 @@
   - [`Solution300最长递增子序列.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution300最长递增子序列.cs)
   - [`Solution1139最大的以1为边界的正方形.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1139最大的以1为边界的正方形.cs)
   - [`Solution198打家劫舍.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution198打家劫舍.cs)
+  - [`Solution1143最长公共子序列.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1143最长公共子序列.cs)
   - [`Solution完全背包理论基础.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution完全背包理论基础.cs)
   - [`Solution70爬楼梯.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution70爬楼梯.cs)
   - [`Solution121买卖股票的最佳时机.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution121买卖股票的最佳时机.cs)
