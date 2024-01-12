@@ -310,5 +310,7 @@ Console.WriteLine("Hello, World!");
 // int[] prices = new []{1,2,3,0,2};
 // new Solution309买卖股票的最佳时机含冷冻期().MaxProfit(prices);
 
-int[] nums = {0};
-new Solution300最长递增子序列().LengthOfLIS(nums);
+// int[] nums = {0};
+// new Solution300最长递增子序列().LengthOfLIS(nums);
+
+new Solution392判断子序列().IsSubsequence1("ab","baab");
