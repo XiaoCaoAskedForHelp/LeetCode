@@ -169,6 +169,7 @@
   - [`Solution416分割等和子集.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution416分割等和子集.cs)
   - [`Solution63不同路径II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution63不同路径II.cs)
   - [`Solution322零钱兑换.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution322零钱兑换.cs)
+  - [`Solution392判断子序列.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution392判断子序列.cs)
   - [`Solution718最长重复子数组.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution718最长重复子数组.cs)
   - [`Solution474一和零.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution474一和零.cs)
   - [`Solution123买卖股票的最佳时机III.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution123买卖股票的最佳时机III.cs)
