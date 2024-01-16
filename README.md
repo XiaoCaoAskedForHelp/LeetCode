@@ -200,5 +200,6 @@
   - [`Solution70爬楼梯(进阶版).cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution70爬楼梯(进阶版).cs)
   - [`Solution多重背包理论基础.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution多重背包理论基础.cs)
   - [`Solution188买卖股票的最佳时机IV.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution188买卖股票的最佳时机IV.cs)
+  - [`Solution583两个字符串的删除操作.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution583两个字符串的删除操作.cs)
   - [`Solution518零钱兑换II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution518零钱兑换II.cs)
   - [`Solution309买卖股票的最佳时机含冷冻期.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution309买卖股票的最佳时机含冷冻期.cs)
