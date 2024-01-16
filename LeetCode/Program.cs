@@ -313,4 +313,6 @@ Console.WriteLine("Hello, World!");
 // int[] nums = {0};
 // new Solution300最长递增子序列().LengthOfLIS(nums);
 
-new Solution392判断子序列().IsSubsequence1("ab","baab");
+// new Solution392判断子序列().IsSubsequence1("ab","baab");
+
+new Solution583两个字符串的删除操作().MinDistance2("a","b");
