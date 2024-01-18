@@ -175,6 +175,7 @@
   - [`Solution123买卖股票的最佳时机III.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution123买卖股票的最佳时机III.cs)
   - [`Solution279完全平方数.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution279完全平方数.cs)
   - [`Solution714买卖股票的最佳时机含手续费.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution714买卖股票的最佳时机含手续费.cs)
+  - [`Solution72编辑距离.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution72编辑距离.cs)
   - [`Solution1049最后一块石头的重量II.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution1049最后一块石头的重量II.cs)
   - [`Solution674最长连续递增序列.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution674最长连续递增序列.cs)
   - [`Solution337打家劫舍III.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution337打家劫舍III.cs)
