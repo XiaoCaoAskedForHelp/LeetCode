@@ -159,6 +159,7 @@
 - [`分治法`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/分治法)
   - [`Soluton190颠倒二进制位.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/分治法/Soluton190颠倒二进制位.cs)
 - [`动态规划`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/动态规划)
+  - [`Solution516最长回文子序列.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution516最长回文子序列.cs)
   - [`Solution343整数拆分.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution343整数拆分.cs)
   - [`总结.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/总结.md)
   - [`Solution377组合总和Ⅳ.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/动态规划/Solution377组合总和Ⅳ.cs)
