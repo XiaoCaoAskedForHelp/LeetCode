@@ -7,6 +7,7 @@ using LeetCode.动态规划;
 using LeetCode.双指针;
 using LeetCode.周赛;
 using LeetCode.哈希表;
+using LeetCode.图论;
 using LeetCode.太简单;
 using LeetCode.字符串;
 using LeetCode.数学;
@@ -315,4 +316,10 @@ Console.WriteLine("Hello, World!");
 
 // new Solution392判断子序列().IsSubsequence1("ab","baab");
 
-new Solution583两个字符串的删除操作().MinDistance2("a","b");
+// new Solution583两个字符串的删除操作().MinDistance2("a","b");
+
+int[][] grid = new int[][]
+{
+    new int[] { 1, 0 }
+};
+new Solution695岛屿的最大面积().MaxAreaOfIsland2(grid);
