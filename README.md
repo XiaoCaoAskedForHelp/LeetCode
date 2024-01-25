@@ -148,6 +148,7 @@
   - [`图论基础.md`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/图论/图论基础.md)
   - [`Solution695岛屿的最大面积.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/图论/Solution695岛屿的最大面积.cs)
   - [`Solution797所有可能的路径.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/图论/Solution797所有可能的路径.cs)
+  - [`Solution1020飞地的数量.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/图论/Solution1020飞地的数量.cs)
   - [`Solution200岛屿数量.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/图论/Solution200岛屿数量.cs)
 - [`周赛`](https://github.com/XiaoCaoAskedForHelp/LeetCode/tree/main/LeetCode/周赛)
   - [`找出峰值.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/周赛/找出峰值.cs)
