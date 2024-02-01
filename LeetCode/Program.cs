@@ -351,15 +351,18 @@ Console.WriteLine("Hello, World!");
 // new Solution417太平洋大西洋水流问题().PacificAtlantic2(heights);
 
 // grid = [[0,0,0,0,0,0,0],[0,1,1,1,1,0,0],[0,1,0,0,1,0,0],[1,0,1,0,1,0,0],[0,1,0,0,1,0,0],[0,1,0,0,1,0,0],[0,1,1,1,1,0,0]]
-int[][] grid = new int[][]
-{
-    new int[] { 0, 0, 0, 0, 0, 0, 0 },
-    new int[] { 0, 1, 1, 1, 1, 0, 0 },
-    new int[] { 0, 1, 0, 0, 1, 0, 0 },
-    new int[] { 1, 0, 1, 0, 1, 0, 0 },
-    new int[] { 0, 1, 0, 0, 1, 0, 0 },
-    new int[] { 0, 1, 0, 0, 1, 0, 0 },
-    new int[] { 0, 1, 1, 1, 1, 0, 0 }
-};
+// int[][] grid = new int[][]
+// {
+//     new int[] { 0, 0, 0, 0, 0, 0, 0 },
+//     new int[] { 0, 1, 1, 1, 1, 0, 0 },
+//     new int[] { 0, 1, 0, 0, 1, 0, 0 },
+//     new int[] { 1, 0, 1, 0, 1, 0, 0 },
+//     new int[] { 0, 1, 0, 0, 1, 0, 0 },
+//     new int[] { 0, 1, 0, 0, 1, 0, 0 },
+//     new int[] { 0, 1, 1, 1, 1, 0, 0 }
+// };
+//
+// new Solution827最大人工岛().LargestIsland(grid);
 
-new Solution827最大人工岛().LargestIsland(grid);
+IList<string> wordList = new List<string>(){"hot","dot","dog","lot","log","cog"};
+new Solution127单词接龙().LadderLength1("hit","cog",wordList);
