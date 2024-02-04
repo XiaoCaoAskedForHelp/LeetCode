@@ -369,10 +369,10 @@ Console.WriteLine("Hello, World!");
 
 
 //grid = [[0,1,0,0],[1,1,1,0],[0,1,0,0],[1,1,0,0]]
-int[][] grid = new int[][] {
-    new int[] { 0, 1, 0, 0 },
-    new int[] { 1, 1, 1, 0 },
-    new int[] { 0, 1, 0, 0 },
-    new int[] { 1, 1, 0, 0 }
-};  
-new Solution463岛屿的周长().IslandPerimeter(grid);
+// int[][] grid = new int[][] {
+//     new int[] { 0, 1, 0, 0 },
+//     new int[] { 1, 1, 1, 0 },
+//     new int[] { 0, 1, 0, 0 },
+//     new int[] { 1, 1, 0, 0 }
+// };  
+// new Solution463岛屿的周长().IslandPerimeter(grid);
