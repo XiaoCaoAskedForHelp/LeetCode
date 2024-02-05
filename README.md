@@ -219,3 +219,4 @@
   - [`Solution797所有可能的路径.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/图论/Solution797所有可能的路径.cs)
   - [`Solution695岛屿的最大面积.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/图论/Solution695岛屿的最大面积.cs)
   - [`Solution200岛屿数量.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/图论/Solution200岛屿数量.cs)
+  - [`Solution684冗余连接.cs`](https://github.com/XiaoCaoAskedForHelp/LeetCode/blob/main/LeetCode/图论/Solution684冗余连接.cs)
